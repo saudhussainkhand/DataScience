@@ -1,4 +1,4 @@
-## Coil Object Detection
+## Coil Object Detection and Data Augmentation
 
 This project is regarding the object detection using coil dataset. We are using coil20 dataset which is an unbalance dataset. We are using data augmentation techniques to balance the data set and then building a model for object detection and evaluations
 
