@@ -7,6 +7,9 @@ American Sign Language (ASL) is the primary language used by many deaf individua
 
 In this project, you will train a convolutional neural network to classify images of ASL letters. After loading, examining, and preprocessing the data, you will train the network, test its performance and then deploy the model to the web using flask.
 
+![asl](https://user-images.githubusercontent.com/60270854/87252799-690c4280-c48f-11ea-822f-d90bec307e85.png)
+
+
 
 ### Depedencies
 To run this project, you need to install following libraries.
@@ -37,3 +40,4 @@ To deploy this project on web you need to do following things
 
 ![Capture](https://user-images.githubusercontent.com/60270854/87252455-a02d2480-c48c-11ea-930c-c18680ee1e6f.JPG)
 
+# Note: Do remember to change the paths in sign_language.py,aslrecognition.py. 
