@@ -1,5 +1,6 @@
-### Project Description
-## ASL Recognition Using Deep Learning
+# ASL Recognition Using Deep Learning
+
+## Project Description
 
 Our goal is to build a model for correctly identifying letters from a dataset of American Sign Language (ASL) images.
 
@@ -40,4 +41,4 @@ To deploy this project on web you need to do following things
 
 ![Capture](https://user-images.githubusercontent.com/60270854/87252455-a02d2480-c48c-11ea-930c-c18680ee1e6f.JPG)
 
-# Note: Do remember to change the paths in sign_language.py,aslrecognition.py. 
+#### Note: Do remember to change the paths in sign_language.py,aslrecognition.py. 
