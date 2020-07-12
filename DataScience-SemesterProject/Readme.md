@@ -41,4 +41,8 @@ To deploy this project on web you need to do following things
 
 ![Capture](https://user-images.githubusercontent.com/60270854/87252455-a02d2480-c48c-11ea-930c-c18680ee1e6f.JPG)
 
+## Live working, explanation and demo link
+
+https://youtu.be/4vI8WQC5Du4
+
 #### Note: Do remember to change the paths in sign_language.py,aslrecognition.py. 
